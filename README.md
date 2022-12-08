@@ -55,7 +55,7 @@ Here are some ideas to get you started:
 <details>
   <summary><strong>Laptop</strong></summary>
   <ul>
-    <li>CPU: AMD Ryzen 7 4800U</li>
+    <li>CPU: AMD Ryzen 7 4800H</li>
     <li>GPU: Nvidia GTX1650Ti</li>
     <li>RAM: 16GB (DDR4-3200)</li>
     <li>SSD: 512GB (NVMe)</li>
@@ -66,7 +66,7 @@ Here are some ideas to get you started:
 <details>
   <summary><strong>Homelab</strong></summary>
   <ul>
-    <li>CPU: AMD Ryzen 7 3700X</li>
+    <li>CPU: Intel i7 3930K</li>
     <li>GPU1: Nvidia GT710</li>
     <li>GPU2: AMD RADEON 560</li>
     <li>RAM: 64GB (DDR3)</li>
