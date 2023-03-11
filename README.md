@@ -18,12 +18,12 @@ Here are some ideas to get you started:
 - 🃏 I’m currently working on my own card game.
 - 💬 Ask me about anything!
 - 😄 Pronouns: he/him/his
-- 📫 How to reach me: [e-mail](mailto:askoric@protonmail) | [Telegram](https://t.me/askoric) | [LinkedIn](https://linkedin.com/in/askoric)
+- 📫 How to reach me: [e-mail](mailto:askoric@protonmail.com) | [Telegram](https://t.me/askoric) | [LinkedIn](https://linkedin.com/in/askoric)
 - ⚡ Fun fact: My favorite colorscheme at the moment is [catppuccin](https://github.com/catppuccin/catppuccin)!
 
 <div align="center">
 
-  [![OS:ArtixLinux](https://img.shields.io/badge/OS-ArtixLinux-cyan?style=flat-square&logo=arch-linux)](https://archlinux.org)
+  [![OS:ArtixLinux](https://img.shields.io/badge/OS-ArtixLinux-cyan?style=flat-square&logo=artix-linux)](https://artixlinux.org)
   [![OS:Windows11](https://img.shields.io/badge/OS-Windows%2011-blue?style=flat-square&logo=microsoft)](https://www.microsoft.com)
   [![OS:ArchLinux](https://img.shields.io/badge/OS-ArchLinux-blue?style=flat-square&logo=arch-linux)](https://archlinux.org)
   [![OS:Proxmox](https://img.shields.io/badge/OS-Proxmox%20VE-orange?style=flat-square&logo=proxmox)](https://www.proxmox.com)
