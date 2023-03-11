@@ -44,12 +44,12 @@ Here are some ideas to get you started:
 <details>
   <summary><strong>Desktop</strong></summary>
   <ul>
-    <li>CPU: AMD Ryzen 9 5600X</li>
+    <li>CPU: AMD Ryzen 9 5900X</li>
     <li>GPU: AMD Radeon RX 6600XT</li>
     <li>RAM: 16GB (DDR4-3200)</li>
     <li>SSD: 512GB (NVMe)</li>
     <li>OS1: Artix Linux</li>
-    <li>OS1: Windows 11</li>
+    <li>OS2: Windows 11</li>
     <li>WSL: Arch Linux</li>
   </ul>
 </details>
