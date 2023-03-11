@@ -16,7 +16,6 @@ Here are some ideas to get you started:
 -->
 
 - 🃏 I’m currently working on my own card game.
-- 🔭 I’m currently looking for a job.
 - 💬 Ask me about anything!
 - 😄 Pronouns: he/him/his
 - 📫 How to reach me: [e-mail](mailto:askoric@protonmail) | [Telegram](https://t.me/askoric) | [LinkedIn](https://linkedin.com/in/askoric)
@@ -24,6 +23,7 @@ Here are some ideas to get you started:
 
 <div align="center">
 
+  [![OS:ArtixLinux](https://img.shields.io/badge/OS-ArtixLinux-cyan?style=flat-square&logo=arch-linux)](https://archlinux.org)
   [![OS:Windows11](https://img.shields.io/badge/OS-Windows%2011-blue?style=flat-square&logo=microsoft)](https://www.microsoft.com)
   [![OS:ArchLinux](https://img.shields.io/badge/OS-ArchLinux-blue?style=flat-square&logo=arch-linux)](https://archlinux.org)
   [![OS:Proxmox](https://img.shields.io/badge/OS-Proxmox%20VE-orange?style=flat-square&logo=proxmox)](https://www.proxmox.com)
@@ -44,11 +44,12 @@ Here are some ideas to get you started:
 <details>
   <summary><strong>Desktop</strong></summary>
   <ul>
-    <li>CPU: AMD Ryzen 7 2700X</li>
-    <li>GPU: Nvidia GTX1050</li>
+    <li>CPU: AMD Ryzen 9 5600X</li>
+    <li>GPU: AMD Radeon RX 6600XT</li>
     <li>RAM: 16GB (DDR4-3200)</li>
     <li>SSD: 512GB (NVMe)</li>
-    <li>OS: Windows 11</li>
+    <li>OS1: Artix Linux</li>
+    <li>OS1: Windows 11</li>
     <li>WSL: Arch Linux</li>
   </ul>
 </details>
@@ -68,7 +69,8 @@ Here are some ideas to get you started:
   <ul>
     <li>CPU: Intel i7 3930K</li>
     <li>GPU1: Nvidia GT710</li>
-    <li>GPU2: AMD RADEON 560</li>
+    <li>GPU2: Nvidia GTX 1050</li>
+    <li>GPU3: AMD Radeon RX 560</li>
     <li>RAM: 64GB (DDR3)</li>
     <li>SSD1: 128GB (SATA)</li>
     <li>SSD2: 512GB (SATA)</li>
