@@ -47,10 +47,9 @@ Here are some ideas to get you started:
     <li>CPU: AMD Ryzen 9 5900X</li>
     <li>GPU: AMD Radeon RX 6600XT</li>
     <li>RAM: 16GB (DDR4-3200)</li>
-    <li>SSD: 512GB (NVMe)</li>
-    <li>OS1: Artix Linux</li>
-    <li>OS2: Windows 11</li>
-    <li>WSL: Arch Linux</li>
+    <li>SSD1: 1TB (NVMe)</li>
+    <li>SSD2: 512GB (NVMe)</li>
+    <li>OS: Artix Linux</li>
   </ul>
 </details>
 <details>
@@ -93,18 +92,18 @@ Here are some ideas to get you started:
   <summary><strong>Phone</strong></summary>
   <ul>
     <li>Model: Google Pixel 6</li>
-    <li>OS: Android 13 (stock)</li>
+    <li>OS: Android 13</li>
   </ul>
 </details>
 
 <div align="center">
   <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ace-skoric&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ace-skoric&theme=tokyonight" />
   </a>
   <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ace-skoric&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ace-skoric&bg_color=1e1e2e&theme=tokyonight" />
   </a>
   <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ace-skoric&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ace-skoric&theme=tokyonight" />
   </a>
 </div>
